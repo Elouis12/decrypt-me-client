@@ -10,7 +10,7 @@ let Footer = ()=>{
             {/* SOCIALS */}
             <div className={"flex item-center justify-center space-x-6"}>
 
-                <a href={"https://github/com/Elouis12"}> <AiFillGithub size={25} color={"white"}/> </a>
+                <a href={"https://github.com/Elouis12"}> <AiFillGithub size={25} color={"white"}/> </a>
                 <a href={"https://www.linkedin.com/in/ernesto-louis-46795b235/"}> <AiFillLinkedin size={25} color={"white"}/> </a>
                 <a href={"mailto:elouis12@me.com"}> <AiFillMail size={25} color={"white"}/> </a>
             </div>
